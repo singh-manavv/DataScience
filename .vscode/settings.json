@@ -1,7 +1,12 @@
 {
     "cSpell.words": [
+        "boxcox",
+        "figsize",
         "fillna",
         "histplot",
-        "minmax"
+        "minmax",
+        "probplot",
+        "pylab",
+        "reci"
     ]
 }
